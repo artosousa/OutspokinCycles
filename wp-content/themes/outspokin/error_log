@@ -1,0 +1,4 @@
+[01-Mar-2016 09:02:16 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/outsjqyu/public_html/wp-content/themes/outspokin/functions.php on line 60
+[01-Mar-2016 09:02:16 America/New_York] PHP Fatal error:  Call to undefined function bloginfo() in /home/outsjqyu/public_html/wp-content/themes/outspokin/footer.php on line 5
+[13-Mar-2016 15:36:20 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/outsjqyu/public_html/wp-content/themes/outspokin/functions.php on line 60
+[13-Mar-2016 15:36:21 America/New_York] PHP Fatal error:  Call to undefined function bloginfo() in /home/outsjqyu/public_html/wp-content/themes/outspokin/footer.php on line 5
